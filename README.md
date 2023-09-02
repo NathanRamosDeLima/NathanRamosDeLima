@@ -1,5 +1,5 @@
-##### Olá, meu nome é Nathan Ramos 
-##Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas.
+# Olá, meu nome é Nathan Ramos 
+## Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas.
 
 #
 
@@ -10,7 +10,6 @@
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  
 </div>
 
 #  
