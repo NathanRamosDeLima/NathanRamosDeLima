@@ -1,16 +1,9 @@
-### Olá, meu nome é Nathan Ramos 
-Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas.
+##### Olá, meu nome é Nathan Ramos 
+##Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas.
 
-
-<div>
-<a href="https://github.com/NathanRamosDeLima">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NathanRamosDeLima&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NathanRamosDeLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
 #
 
-### Stacks já vistas:
+### Stacks:
 <div display="flex" justify-content="space-between">
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />         
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
