@@ -12,8 +12,6 @@
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-#  
-
 ### Atualmente aprendendo/aprimorando:
 <div>
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
