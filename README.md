@@ -1,8 +1,6 @@
 # Olá, meu nome é Nathan Ramos 
 ## Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas.
 
-#
-
 ### Stacks:
 <div display="flex" justify-content="space-between">
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />         
